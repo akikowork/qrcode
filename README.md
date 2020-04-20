@@ -1,3 +1,5 @@
+![](https://github.com/akikowork/qrcode/blob/master/wiki.gif)
+
 # QR-Code
 [*转到中文版*](https://github.com/sylnsfar/qrcode/blob/master/README-cn.md)
 
